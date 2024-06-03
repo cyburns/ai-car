@@ -1,4 +1,6 @@
 # Machine Learning, Neural Network Self-Driving Car
 
-You will need to "save" each furthest car to the "brain" for the cars to get further and further.
-Reload the page once all cars are crashed or idle before an NPC car
+Instructions:
+
+To improve the performance of the cars, ensure that you "save" the data of the car that travels the furthest. This will help the cars progressively travel further distances.
+Once all the cars have either crashed or stopped moving before encountering an NPC car, reload the page to start a new session.
