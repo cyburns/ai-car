@@ -24,3 +24,5 @@ Repeat the process of saving the furthest car's data and reloading the page afte
 Each iteration uses the previously saved best-performing data to enhance the cars' capabilities.
 Over multiple iterations, this method should result in cars that can navigate further and more efficiently, adapting to the challenges presented by the environment.
 By following these steps, you ensure a systematic approach to enhancing the cars' performance through continuous learning and iteration.
+
+I hope you enjoy vanilla!
