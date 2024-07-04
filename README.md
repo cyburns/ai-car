@@ -14,6 +14,7 @@ When all cars have either:
 Crashed into obstacles or other cars, or
 Become idle (stopped moving) in front of an NPC (non-player character) car,
 It is time to reset the simulation for a new iteration.
+
 Reloading the Page:
 
 Once all cars are either crashed or idle, reload the page to reset the environment and start a new session.
