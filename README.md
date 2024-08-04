@@ -1,6 +1,6 @@
 # Machine Learning, Neural Network Self-Driving Car
 
-Instructions read:
+Instructions read.
 
 Saving the Furthest Car Data
 
