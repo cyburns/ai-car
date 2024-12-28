@@ -2,7 +2,7 @@
 
 Instructions:
 
-Saving the Furthest Car Data
+Saving the Furthest Car Data. 
 
 As the cars navigate through the environment, monitor which car travels the furthest distance.
 When a car achieves the longest travel distance, save its data to the "brain" of the system. This "brain" could be a neural network or a genetic algorithm model that stores the car's parameters, strategies, and decisions that led to its successful journey.
